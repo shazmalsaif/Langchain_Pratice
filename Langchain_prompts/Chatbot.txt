@@ -1,0 +1,2 @@
+HumanMessage (content = I want a refund for my order 12345)
+AIMessage (content = Your refund has been placed It would take 3 to 4 work days)
